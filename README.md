@@ -50,7 +50,7 @@ https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_dfs_code
 ```
     
 ### LeetCode platform:
-1.Just copy the Class Solution to the Python editor in Leetcode
+1.Just copy the Class Solution to the Python editor in Leetcode<br>
 2.Submit
 
 # Document(Google Slide): 
