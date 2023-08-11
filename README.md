@@ -25,13 +25,13 @@ In this case, we try to explore the search space on a level by level basis. i.e.
 
 
 ## Solution
-* Tree     [Tree Explaination](https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=gcse)
-* Graph    [Graph Explaination](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/?ref=gcse) 
-* Depth-First-Search      [DFS Explaination](https://brilliant.org/wiki/depth-first-search-dfs/#complexity-of-depth-first-search)
-* Breadth-First-Search      [BFS Explaination](https://www.youtube.com/watch?v=xlVX7dXLS64) 
+* Tree    
+* Graph    
+* Depth-First-Search      
+* Breadth-First-Search    
 
 ## Code: 
-https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_dfs_code.py
+https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_bfs_code.py
 
 
 ## How to run?
